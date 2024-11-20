@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bravin Ojweke
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Software Engineering 
-- 💞️ I’m looking to collaborate on f
+- 🌱 I’m currently learning Software            Engineering 
+- 💞️ I’m looking to collaborate on startup      projects
 - 📫 How to reach me: inforbrav@gmail.com 
 - 😄 Pronouns: Mrs.
 - ⚡ Fun fact: I love basketball
